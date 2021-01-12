@@ -4,7 +4,7 @@ Directories in this folder are:
 
 -template_idf_ceedling_project
 
-	-Componentes
+	-Components
 		- Leds
 			-Include
 				-leds.h
