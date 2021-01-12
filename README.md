@@ -1,4 +1,4 @@
-# Template ESP_IDF and CEEDLING for TESTING
+# Template ESP_IDF and CEEDLING
 
 Directories in this folder are:
 
