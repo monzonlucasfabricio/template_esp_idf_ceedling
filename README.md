@@ -33,8 +33,10 @@ Directories in this folder are:
 	-sdkconfig.defaults
 
 
-To use this template need two things:
-1) Clone esp-idf inside a folder that can be called esp/ . https://github.com/espressif/esp-idf.	
+To use this template you need to:
+
+1) Clone esp-idf inside a folder that can be called esp/ . https://github.com/espressif/esp-idf.
+
 So you will have this directories.
 -esp
    -esp-idf
@@ -43,8 +45,10 @@ So you will have this directories.
 
 After having all installed, you can clone this repo on the folder esp/ and then use it.
 
-Easy steps are:
+Easy steps to use are:
+
 - Go to esp-idf folder. Open a terminal and use ./install.sh once this finish, use . ./export.sh and go to your template folder. Try this commands on the terminal:
+
 1) idf.py build
 2) idf.py flash OR idf.py flash monitor
 
