@@ -9,7 +9,7 @@ Directories in this folder are:
 			-Include
 				-leds.h
 			-Test
-				-test_leds.h
+				-test_leds.c
 			-leds.c
 		- Tasks
 			-Include
